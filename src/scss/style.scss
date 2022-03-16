@@ -1,0 +1,23 @@
+@import "fonts";
+@import "reset";
+@import "menu";
+
+body {
+  font-family: Roboto;
+  background-color: #000;
+}
+// p {
+//     color: red;
+//     background: url("@img/test.jpg");
+//   }
+// @media screen and (min-width: 900px) {
+//   body {
+//     color: green;
+//     background: url("@img/test.jpg");
+//   }
+// }
+// @media screen and (min-width: 900px) {
+//     span {
+//         color: red;
+//     }
+//   }
