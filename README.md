@@ -25,6 +25,7 @@ Collect all svg icons into one file:
 npm run svgSprive
 
 ============================================
+
 Assembly: 
 
     "browser-sync": "^2.27.8",
@@ -58,6 +59,7 @@ Assembly:
     "webpack-stream": "^7.0.0"
     
 ============================================
+
  Bonus:
  
  Responsive menu
@@ -66,4 +68,5 @@ Assembly:
 Say thanks:
 
 13LAE7wh26hEu7HjnZBdEhbJhxbzB6MAxq BTC/OMNI
+
 0x789739388E91f9244532B3611E977C0d2184d4FF ETH/ERC-20
