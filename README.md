@@ -62,7 +62,9 @@ Assembly:
 
  Bonus:
  
- Responsive menu
+ Responsive menu,
+ 
+ sass mixin grid
 
 ============================================
 
