@@ -1,10 +1,24 @@
 @import "fonts";
 @import "reset";
+@import "variables";
 @import "menu";
-@import "mixin";
+@import "footer";
+
+html,
 body {
   font-family: Roboto;
   background-color: #000;
+  height: 100%;
+}
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  flex: 1 1 auto;
 }
 // p {
 //     color: red;
