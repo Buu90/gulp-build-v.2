@@ -64,7 +64,11 @@ Assembly:
  
  Responsive menu,
  
- sass mixin grid
+ sass Mixin grid,
+ 
+ sass Variables,
+ 
+ sass Extension/Inheritance
 
 ============================================
 
